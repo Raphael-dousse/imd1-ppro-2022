@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 375px;
+  margin: auto;
+  background: #d7d2dc;
+}
+
+header img {
+  height: 28px;
+  margin: 26px 20px 28px 20px;
+}
+
+.picture img {
+ height: 300px;
+}
