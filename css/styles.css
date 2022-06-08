@@ -71,3 +71,20 @@ main .exposition{
   margin: 30px 0 0 17px;
 }
 
+.flower-content p {
+  margin: 30px 0 0 17px;
+}
+
+.flower-content a {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 16px;
+  color: black;
+  padding: 8px 4px;
+  border: 1px solid black;
+  Text-decoration: none;
+  margin-left: 16px;
+}
+
+.flower-content a:hover {
+  background: #eeedef;
+}
