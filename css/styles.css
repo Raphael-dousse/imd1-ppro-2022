@@ -41,9 +41,33 @@ nav a:hover {
   background: #d7d2dc;
 }
 
-.profile-bottom {
-  margin-top: 9px;
+
+.description p {
+  font-family: 'Ibarra Real Nova', serif;
+  margin: 19px 10px 17px 15px;
+}
+
+main h2 {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #47321a;
+  margin: 65px 113px 30px 120px;
+}
+
+main p {
+  font-family: 'Ibarra Real Nova', serif;
+  margin: 0 0 0 17px;
+}
+
+main .mock-ups {
+  height: 535px;
 }
 
 
+main .exposition{
+  height: 285px;
+}
+
+.bean-content p {
+  margin: 30px 0 0 17px;
+}
 
