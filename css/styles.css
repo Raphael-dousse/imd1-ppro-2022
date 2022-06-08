@@ -88,3 +88,22 @@ main .exposition{
 .flower-content a:hover {
   background: #eeedef;
 }
+
+.map-content img {
+  margin-top: 79px;
+}
+
+
+.map-content h2 {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #47321a;
+  margin-bottom: 3px;
+}
+
+.map-content p{
+  margin-top: 3px;
+}
+
+.location {
+  margin-left: 10px;
+}
