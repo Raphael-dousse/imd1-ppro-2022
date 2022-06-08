@@ -10,7 +10,7 @@ body {
 
 header {
   background: #eeedef;
-  padding-bottom: 29px;
+  padding-bottom: 10px;
 }
 
 header img {
@@ -106,4 +106,26 @@ main .exposition{
 
 .location {
   margin-left: 10px;
+}
+
+.destination {
+  margin-top: 57px;
+}
+
+.menu-button {
+  margin-top: 50px;
+}
+
+.menu-button a {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 16px;
+  color: black;
+  padding: 8px 4px;
+  border: 1px solid black;
+  Text-decoration: none;
+  margin: 0 0 0 10px;
+}
+
+.menu-button a:hover {
+  background: #eeedef;
 }
