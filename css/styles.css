@@ -27,6 +27,20 @@ header img {
  height: 281px;
 }
 
+figure {
+  margin: 0;
+  position: relative;
+}
+
+figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #ffffffaa;
+  font-size: 10px;
+  width: 100%;
+}
+
 nav {
   display: flex;
   justify-content: space-around;
