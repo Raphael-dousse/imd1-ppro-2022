@@ -8,11 +8,42 @@ body {
   background: #d7d2dc;
 }
 
+header {
+  background: #eeedef;
+  padding-bottom: 29px;
+}
+
 header img {
   height: 28px;
-  margin: 26px 20px 28px 20px;
+  margin: 29px 10px 29px 20px;
 }
 
 .picture img {
- height: 300px;
+ height: 281px;
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+nav a {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 16px;
+  color: black;
+  padding: 8px 4px;
+  border: 1px solid black;
+  Text-decoration: none;
+}
+
+nav a:hover {
+  background: #d7d2dc;
+}
+
+.profile-bottom {
+  margin-top: 9px;
+}
+
+
+
