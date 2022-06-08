@@ -8,6 +8,11 @@ body {
   background: #d7d2dc;
 }
 
+body a {
+  text-decoration: none;
+  color: black;
+}
+
 header {
   background: #eeedef;
   padding-bottom: 10px;
@@ -128,4 +133,22 @@ main .exposition{
 
 .menu-button a:hover {
   background: #eeedef;
+}
+
+footer {
+  background: #eeedef;
+  margin: 70px 0 0 0;
+  padding-bottom: 10px;
+}
+
+footer p {
+  font-family: 'Ibarra Real Nova', serif;
+  padding: 0 0 0 5px;
+}
+
+footer h2 {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #47321a;
+  margin: 0;
+  padding: 5px;
 }
